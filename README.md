@@ -11,3 +11,5 @@ This Machine Learning and NLP Project classifies a user's review into Positive o
 ![](https://github.com/olumide1128/sentiment-analysis-application/blob/master/snapshots/Screenshot%20(265).png)
 
 ![](https://github.com/olumide1128/sentiment-analysis-application/blob/master/snapshots/Screenshot%20(266).png)
+
+![](https://github.com/olumide1128/sentiment-analysis-application/blob/master/snapshots/Screenshot%20(267).png)
