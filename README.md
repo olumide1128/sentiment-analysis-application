@@ -6,3 +6,5 @@ This Machine Learning and NLP Project classifies a user's review into Positive o
 - In the root directory, type 'python main.py' and go to localhost or 127.0.0.1 to see Application.
 
 ## Snapshots of Working Application
+![](https://github.com/olumide1128/sentiment-analysis-application/blob/master/snapshots/Screenshot%20(264).png)
+
