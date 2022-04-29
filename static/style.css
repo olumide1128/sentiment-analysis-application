@@ -1,0 +1,120 @@
+body{
+	background-color: #3d3d3d !important;
+	color: #ffffff !important;
+}
+
+.header{
+	background-color: #5d81d4;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-left-radius: 20px;
+}
+
+.form-area{
+	margin-top: 170px!important; 
+}
+
+.form-area #entry{
+	border: 0;
+	background-color: transparent;
+	border-bottom: 5px solid #5d81d4;
+	border-radius: 0;
+	font-size: 17px;
+	color: #ffffff;
+	text-align: center;
+}
+
+.form-area #entry:focus{
+	outline: none !important;
+	box-shadow: none;
+
+}
+
+
+#submitBtn{
+	padding: 15px 40px;
+	background-color: #ffffff !important;
+	color: #5d81d4;
+	font-size: 16px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	text-transform: uppercase;
+	border: 0;
+	outline: none !important;
+}
+
+
+
+#submitBtn:hover{
+	background-color: #5d81d4 !important;
+	color: #ffffff;
+	transition-duration: 0.3s;
+}
+
+.hideAlert{
+	display: none;
+}
+
+#myModal{
+	margin-top: 100px;
+	color: #111111 !important;
+}
+
+#myModal .modal-body{
+	font-size: 33px;
+	text-transform: uppercase;
+	letter-spacing: 0.3px;
+
+}
+
+#myModal .modal-header button{
+	color: #5d81d4 !important;
+}
+
+#myModal .modal-body .fa-check-circle{
+	font-size: 60px;
+	color: lightgreen;
+}
+
+#myModal .modal-body .fa-thumbs-down{
+	font-size: 60px;
+	color: red;
+}
+
+.hideLoader{
+	display: none;
+}
+
+.load span{
+	font-size: 20px;
+}
+
+.load .fa-spinner{
+	margin-top: 10px;
+	font-size: 25px;
+}
+
+
+/*Media Queries*/
+
+@media screen and (max-width: 768px) {
+
+  .header h1{
+  	font-size: 45px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    padding: 10px 20px;
+  }
+
+  .header h1{
+  	font-size: 37px;
+  }
+
+  .form-area{
+	margin-top: 150px!important; 
+	}
+}
